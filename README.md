@@ -1,4 +1,4 @@
-# playwright-typescript-api-tests
+# playwright-typescript-tests
 
 End-to-end UI test automation framework for [SauceDemo](https://www.saucedemo.com/), built with Playwright and TypeScript using the Page Object Model.
 
